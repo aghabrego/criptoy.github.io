@@ -135,7 +135,7 @@ email: "ah.criptoy@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "JMe considero alguien muy sensible, pero que siempre intenta lograr sus sueños, siempre he considerado mis fracasos como impulsores de mis éxitos. Soy responsable, comprometido, solidario, respetuoso, perseverante, trabajo en equipo, investigador, autodidacta y no me gusta depender de nadie."
+author_blurb: "Me considero alguien muy sensible, pero que siempre intenta lograr sus sueños, siempre he considerado mis fracasos como impulsores de mis éxitos. Soy responsable, comprometido, solidario, respetuoso, perseverante, trabajo en equipo, investigador, autodidacta y no me gusta depender de nadie."
 author_blurb_image: "/img/author.png"
 
 ##################
