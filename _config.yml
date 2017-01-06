@@ -31,8 +31,8 @@ force-https: True
 lang: "en"
 author: "Ángel Hidalgo"
 title: "{ Ángel Hidalgo }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "Blog y sitio web de Ángel Hidalgo, nuevas tecnologías, programación, educación, tecnología móvil, desarrollo web, seguridad."
+keywords: "nuevas-tecnologías, programación, educación, tecnología-móvil, desarrollo-web, seguridad."
 favicon: "/img/favicon.ico"
 
 ################
@@ -135,7 +135,7 @@ email: "ah.criptoy@gmail.com"
 # This works best when your author blurb image has a transparent background, or matches your site background color.
 
 # if the author_blurb is not set, then this feature is skipped
-author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
+author_blurb: "JMe considero alguien muy sensible, pero que siempre intenta lograr sus sueños, siempre he considerado mis fracasos como impulsores de mis éxitos. Soy responsable, comprometido, solidario, respetuoso, perseverante, trabajo en equipo, investigador, autodidacta y no me gusta depender de nadie."
 author_blurb_image: "/img/author.png"
 
 ##################
