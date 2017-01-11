@@ -110,12 +110,13 @@ syntax-highlight: True
 ############
 
 events:
-  #- image: "/img/timeline/spidertocat.png"
-  #  date: "September 2013 - Today"
-  #  description: "Saving the neighborhood!"
-  #- image: "/img/timeline/baracktocat.jpg"
-  #  date: "September 2007 - August 2013"
-  #  description: "Started coding"
+  - image: "/img/timeline/elconix.png"
+    date: "Agosto 2013 - Enero 2014"
+    description: "Ofrecer soporte a la plataforma de negocios de distintos clientes, consultoría, aplicación de ajustes, creación de módulos para nuevos y actuales proyectos.
+"
+  - image: "/img/timeline/ifarhu.png"
+    date: "Enero 2015 - Actualmente"
+    description: "Desarrollando el talento nuevo del país."
 
 # First image of the Timeline
 
@@ -174,7 +175,7 @@ keybase-in-footer: True
 
 pages_list:
   Acerca de mi: 'about'
-  #Blog: 'latest-post'
+  # Blog: 'latest-post'
   Línea de tiempo: 'timeline'
   Contacto: 'contact'
 
